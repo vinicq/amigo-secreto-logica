@@ -25,7 +25,7 @@ Este projeto foi criado com o propósito de **treinar a lógica de programação
 
 ## 📸 Capturas de Tela
 
-![Sistema de Sorteio de Amigos](path/to/screenshot.png)
+![Sistema de Sorteio de Amigos](https://github.com/vinicq/amigo-secreto-logica/blob/master/path/to/screenshot.png)
 
 ## 🎮 Como Usar
 
